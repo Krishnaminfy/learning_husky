@@ -6,7 +6,7 @@ This project is part of my learning assignment focused on improving code quality
 
 ---
 
-## 🐶 What is Husky?
+##  What is Husky?
 
 Before this assignment, I had never used **Husky**, but I’ve now learned what it does and why it’s useful.
 
@@ -44,15 +44,15 @@ Basically, Husky adds automation to your Git workflow to **catch mistakes early*
 ## 🧪 What I Tried
 
 I tested the setup by trying to:
-- Commit code with lint errors — ✅ Rejected
-- Use a bad commit message — ✅ Rejected
-- Push clean code with a proper message — ✅ Accepted
+- Commit code with lint errors —  Rejected
+- Use a bad commit message —  Rejected
+- Push clean code with a proper message —  Accepted
 
 This helped me understand how automation can stop mistakes before they become problems.
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 Even though this was my first time using these tools, I realized how powerful they are for real-world development.
 
@@ -66,7 +66,7 @@ Automation like this doesn’t replace good practices — it reinforces them.
 
 ---
 
-## 📦 Tools Used
+##  Tools Used
 
 - **Husky** – for Git hooks
 - **lint-staged** – to run checks on staged files
@@ -77,10 +77,8 @@ Automation like this doesn’t replace good practices — it reinforces them.
 
 ---
 
-## 🚀 What’s Next?
+##  What’s Next?
 
 Now that I understand the basics, I’d like to explore more automation — like running unit tests, checking code coverage, or even deploying code automatically through CI/CD.
 
 ---
-
-Thanks for reading! This was a great hands-on way to learn how automation tools improve development.
