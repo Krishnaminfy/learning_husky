@@ -21,7 +21,7 @@ Basically, Husky adds automation to your Git workflow to **catch mistakes early*
 
 ---
 
-## 🔧 What I Set Up
+##  What I Set Up
 
 ### 1. **Husky + lint-staged**
 - Installed Husky and lint-staged to run checks before committing code.
@@ -41,7 +41,7 @@ Basically, Husky adds automation to your Git workflow to **catch mistakes early*
 
 ---
 
-## 🧪 What I Tried
+##  What I Tried
 
 I tested the setup by trying to:
 - Commit code with lint errors —  Rejected
